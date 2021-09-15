@@ -18,7 +18,7 @@ const Navbar = () => {
           </li>
           <li className="nav-item">
             <Link className="nav-link" to="/localizaciones">
-              Editado
+              Editado2222
             </Link>
           </li>
         </ul>
